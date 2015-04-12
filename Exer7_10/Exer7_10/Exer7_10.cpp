@@ -32,7 +32,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	//Exercicio letra f
 	printf("\nEndereço value1 %d", &value1);
 
-	//Exercicio letra g (valor impresso é o mesmo do endereço de value1
+	//Exercicio letra g (valor impresso é diferente do endereço de value1)
 	printf("\nEndereço de lPtr %d", &lPtr);
 
 
